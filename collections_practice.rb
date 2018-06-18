@@ -32,6 +32,7 @@ def kesha_maker
   array.each do |n|
   n[2] = "$"
 end
+end
 
 def find_a
 
