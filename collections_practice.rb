@@ -28,7 +28,7 @@ def reverse_array(array)
  return copy
 end
 
-def kesha_maker
+def kesha_maker(array)
   array.each do |n|
   n[2] = "$"
 end
